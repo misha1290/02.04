@@ -1,0 +1,27 @@
+.box {
+    width: 1000px;
+    height: 500px;
+    background-color: aqua;
+    margin: 0 auto;
+}
+.card-1 {
+    width: 200px;
+    height: 300px;
+    position: absolute;
+    margin: 100px 100px;
+    background-color: red;
+}
+.card-2 {
+    width: 200px;
+    height: 300px;
+    position: absolute;
+    margin: 100px 400px;
+    background-color: rgb(76, 0, 255);
+}
+.card-3 {
+    width: 200px;
+    height: 300px;
+    position: absolute;
+    margin: 100px 700px;
+    background-color: rgb(81, 255, 0);
+}
